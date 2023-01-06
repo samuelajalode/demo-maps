@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(199, 227, 199);
+    width: auto;
+    height: 800px;
+}
+
+iframe{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
